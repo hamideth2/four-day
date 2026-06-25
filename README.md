@@ -8,3 +8,5 @@ first and most important thing is
 pick your favourite project
 the first one is layer 1
 and layer 2
+the first coin is 
+the BTC coin
