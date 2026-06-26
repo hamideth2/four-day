@@ -10,3 +10,5 @@ the first one is layer 1
 and layer 2
 the first coin is 
 the BTC coin
+and the second is
+ETH coin, which is placed on the heels of BTC coin
