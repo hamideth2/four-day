@@ -15,5 +15,8 @@ ETH coin, which is placed on the heels of BTC coin
 check the informations on conmarketcap
 and also coingeco website.
 there are many diffrent coin
-which are on the best peak of the price
+which are on the best peak of the price.
+now you should select a dex
+in order to trade (buy and sell) tokens
+
 
