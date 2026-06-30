@@ -17,6 +17,7 @@ and also coingeco website.
 there are many diffrent coin
 which are on the best peak of the price.
 now you should select a dex
-in order to trade (buy and sell) tokens
-
+in order to trade (buy and sell) tokens.
+first you need to charge your account
+to be able trade the tokens 
 
