@@ -20,4 +20,7 @@ now you should select a dex
 in order to trade (buy and sell) tokens.
 first you need to charge your account
 to be able trade the tokens 
+and then transfer tokens
+which you by them
+
 
