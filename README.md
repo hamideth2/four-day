@@ -21,6 +21,9 @@ in order to trade (buy and sell) tokens.
 first you need to charge your account
 to be able trade the tokens 
 and then transfer tokens
-which you by them
+which you by them to 
+the your personal and
+safe wallet to keep them
+
 
 
