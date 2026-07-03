@@ -24,6 +24,8 @@ and then transfer tokens
 which you by them to 
 the your personal and
 safe wallet to keep them
+and stop losing them
+or keeping save them
 
 
 
