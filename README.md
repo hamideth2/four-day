@@ -26,6 +26,8 @@ the your personal and
 safe wallet to keep them
 and stop losing them
 or keeping save them
+after checking the address
+select the chain you want to transfer
 
 
 
