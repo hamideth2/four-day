@@ -27,7 +27,10 @@ safe wallet to keep them
 and stop losing them
 or keeping save them
 after checking the address
-select the chain you want to transfer
+select the chain you want to transfer 
+token to that chain and past in the
+destination part.
+
 
 
 
