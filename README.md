@@ -30,6 +30,8 @@ after checking the address
 select the chain you want to transfer 
 token to that chain and past in the
 destination part.
+after transfer the tokens to
+your wallet, you can keep them there.
 
 
 
