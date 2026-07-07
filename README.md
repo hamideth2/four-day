@@ -32,6 +32,9 @@ token to that chain and past in the
 destination part.
 after transfer the tokens to
 your wallet, you can keep them there.
+there are a lot of wallets
+which are possible to keep
+
 
 
 
