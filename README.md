@@ -33,7 +33,10 @@ destination part.
 after transfer the tokens to
 your wallet, you can keep them there.
 there are a lot of wallets
-which are possible to keep
+which are possible to keep 
+the tokens into save.
+just be paitant and follow the trends.
+
 
 
 
